@@ -2,10 +2,36 @@
     <channel>
         <title>Simon&#39;s ACGN comments</title>
         <link>https://simonacgn.github.io/</link>
-        <description>Comments, shares, and recommendations</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 28 Sep 2022 00:58:48 &#43;0200</lastBuildDate>
+        <description>May all the beauty be blessed.</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 07 Oct 2022 14:41:41 &#43;0200</lastBuildDate>
             <atom:link href="https://simonacgn.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Vtuber推荐</title>
+    <link>https://simonacgn.github.io/posts/vtuber%E6%8E%A8%E8%8D%90/</link>
+    <pubDate>Fri, 07 Oct 2022 14:41:41 &#43;0200</pubDate>
+    <author>Simon</author>
+    <guid>https://simonacgn.github.io/posts/vtuber%E6%8E%A8%E8%8D%90/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>JPOP歌手推荐</title>
+    <link>https://simonacgn.github.io/posts/jpop%E6%AD%8C%E6%89%8B%E6%8E%A8%E8%8D%90/</link>
+    <pubDate>Fri, 07 Oct 2022 12:47:31 &#43;0200</pubDate>
+    <author>Simon</author>
+    <guid>https://simonacgn.github.io/posts/jpop%E6%AD%8C%E6%89%8B%E6%8E%A8%E8%8D%90/</guid>
+    <description><![CDATA[新生代（平成末年） 星街すいせい Aimer Milet 绿黄色社会 ずっと真夜中でいいのに 緑黄色社会 Yoasobi 酸欠少女さユり 美波 “老年代” 宇多田 ヒカル 水樹 奈々]]></description>
+</item>
+<item>
+    <title>谈谈新海诚</title>
+    <link>https://simonacgn.github.io/posts/%E6%96%B0%E6%B5%B7%E8%AF%9A%E7%9A%84%E7%BE%8E%E5%AD%A6/</link>
+    <pubDate>Thu, 06 Oct 2022 11:05:46 &#43;0200</pubDate>
+    <author>Simon</author>
+    <guid>https://simonacgn.github.io/posts/%E6%96%B0%E6%B5%B7%E8%AF%9A%E7%9A%84%E7%BE%8E%E5%AD%A6/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/%e6%96%b0%e6%b5%b7%e8%af%9a/suzunu_cover.jpg" referrerpolicy="no-referrer">
+            </div>恰逢新海诚的新电影即将在日本上映，这个月正好来聊聊新海诚。 谈到日本动画电影，绕不开的两个人就是宫崎骏和新海诚。相比起做全年龄向（确实也更难写]]></description>
+</item>
+<item>
     <title>Au revoir, Eri</title>
     <link>https://simonacgn.github.io/posts/au-revoir-eri/</link>
     <pubDate>Wed, 28 Sep 2022 00:58:48 &#43;0200</pubDate>
@@ -21,7 +47,7 @@
     <pubDate>Wed, 28 Sep 2022 00:57:29 &#43;0200</pubDate>
     <author>Simon</author>
     <guid>https://simonacgn.github.io/posts/%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E5%90%ABova%E7%AE%80%E8%AF%84/</guid>
-    <description><![CDATA[From: Twitter @tamakolovestory 5(我很喜欢) 玉子爱情故事（稳定发糖，作画优秀） EVA剧场版（青春补完） 伤物语（感染力强） 朝花夕誓（你所呼唤的，成为了我的名字） 穿越时]]></description>
+    <description><![CDATA[From: Twitter @tamakolovestory 5(我很喜欢) 四叠半时光机布鲁斯（剧情不错，就是短了点） 玉子爱情故事（稳定发糖，作画优秀） EVA剧场版（青春补完） 伤物语（感染力强） 朝]]></description>
 </item>
 <item>
     <title>日式游戏简评</title>
@@ -53,7 +79,7 @@
     <pubDate>Tue, 27 Sep 2022 15:21:43 &#43;0200</pubDate>
     <author>Simon</author>
     <guid>https://simonacgn.github.io/posts/%E5%89%8D%E8%A8%80/</guid>
-    <description><![CDATA[叠buff：作者毫无艺术，文学背景。只是有感而发，只包含自己的一点浅薄的见解与认识。撰文之前会回顾一遍原作，但不会做太多功课，主要是基于自身]]></description>
+    <description><![CDATA[叠buff：本人毫无艺术，文学背景。只是有感而发，只包含自己的一点浅薄的见解与认识。撰文之前会回顾一遍原作，但不会做太多功课，主要是基于自身]]></description>
 </item>
 </channel>
     
